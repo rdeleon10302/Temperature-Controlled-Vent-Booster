@@ -1,15 +1,15 @@
 # Temperature Controlled Vent Booster
-This Arduino project controls fan speeds based on temperature readings, allowing users to set a custom temperature threshold using a potentiometer. The system uses NPN transistors to manage fan power and displays real-time data on an LCD.
+- This Arduino project controls fan speeds based on temperature readings, allowing users to set a custom temperature threshold using a potentiometer. The system uses NPN transistors to manage fan power and displays real-time data on an LCD.
 
 # Features
-Controls two fans via NPN transistors based on temperature
-Adjustable temperature threshold using a potentiometer
-Displays temperature and fan speed on an LCD
+- Controls two fans via NPN transistors based on temperature
+- Adjustable temperature threshold using a potentiometer
+- Displays temperature and fan speed on an LCD
 # Components
-Arduino Mega
-DHT11 Temperature Sensor
-Potentiometer
-2 NPN Transistors
+- Arduino Mega
+- DHT11 Temperature Sensor
+- Potentiometer
+- 2 NPN Transistors
 2 Fans
 LCD Display (I2C)
 Battery
